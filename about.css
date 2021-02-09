@@ -1,0 +1,19 @@
+
+body{
+	background-image: url(assets/photos/planet-5120x2880-earth-dark-5k-22714.jpg);
+	background-repeat: no-repeat;
+	background-size: 1400px 950px;
+	color: white;
+	display: grid;
+	grid-template-columns: repeat(4, 1fr);
+}
+.abtone{
+	margin: 10px;
+}
+.abttwo{
+	margin-top: 10px;
+}
+fieldset{
+	border-radius: 50px;
+	border-color:  #FFD700;
+}
