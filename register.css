@@ -1,6 +1,8 @@
 body{
 	background: url(assets/photos/bitcoin-8k-2b-7680x4320.jpg);
-	background-size: 1400px 950px;
+	background-size: cover;
+	background-position: center;
+	height:100vh;
 	background-repeat: no-repeat;
 	font-family: arial;
 }
